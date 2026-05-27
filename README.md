@@ -1,4 +1,6 @@
 📊 Tech Industry Layoffs – Data Cleaning & Exploratory Analysis (PostgreSQL)
+Visualizations: https://public.tableau.com/views/WorldLayoffsDataCleaningAnalysis/Top5LayoffsByIndustry?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📌 Project Overview
 
 This project analyzes a real-world tech industry layoffs dataset using PostgreSQL. The workflow is divided into two main phases: structured data cleaning and exploratory data analysis (EDA). The objective was to transform raw data into a clean, reliable dataset and extract meaningful insights about workforce reductions across companies, industries, countries, funding stages, and time periods.
