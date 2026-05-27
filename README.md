@@ -1,4 +1,5 @@
 📊 Tech Industry Layoffs – Data Cleaning & Exploratory Analysis (PostgreSQL)
+
 Visualizations: https://public.tableau.com/views/WorldLayoffsDataCleaningAnalysis/Top5LayoffsByIndustry?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 📌 Project Overview
